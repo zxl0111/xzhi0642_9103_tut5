@@ -1,4 +1,5 @@
 # xzhi0642_9103_tut5
+
 # Quiz 8 — Design Research
 
 ## Part 1: Imaging Technique Inspiration — *Vincent van Gogh, “Sunflowers” (1888)*
