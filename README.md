@@ -15,7 +15,7 @@ The hand-crafted quality of Van Gogh’s technique provides a strong inspiration
 
 ## Part 2: Coding Technique Exploration — *p5.js Painterly Brush Effect*
 
-![p5 Brush Example](https://p5js.org/assets/examples/assets/brush.png)
+![p5 Brush Example](image/p5_brush_example.jpg)
 
 The **p5.js painting simulation** technique allows digital visuals to mimic the expressive and textured brushstrokes of oil painting.  
 By layering transparent strokes and adding random variations in opacity and color, it can recreate the organic rhythm seen in Van Gogh’s *Sunflowers*.  
