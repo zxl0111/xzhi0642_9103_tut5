@@ -4,7 +4,7 @@
 
 ## Part 1: Imaging Technique Inspiration — *Vincent van Gogh, “Sunflowers” (1888)*
 
-![Sunflowers 1](https://share.google/ElpR2aMAkAseYBMpi)  
+![Sunflowers 1](https://upload.wikimedia.org/wikipedia/commons/1/1a/Van_Gogh_Vase_with_Fifteen_Sunflowers.jpg)  
 
 I am inspired by Vincent van Gogh’s *Sunflowers* for its vibrant yellow palette and expressive brushstrokes.  
 The swirling texture and layered color convey warmth, life, and emotional intensity.  
